@@ -76,8 +76,7 @@ def update_study_streak():
     update_persistent_storage()
 
 # CSS style 
-# -------------------- CUSTOM AESTHETIC STYLE --------------------
-# -------------------- CUSTOM AESTHETIC STYLE --------------------
+# -------------------- CUSTOM AESTHETIC STYLE -------------------- 
 st.markdown("""
 <style>
 /* 🌸 Background Gradient */
